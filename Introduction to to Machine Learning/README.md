@@ -3,7 +3,7 @@
 ## Crop digits and make a dataset with 10 directories : 
 
 ### input:
-!["input"]()
+!["input"](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Introduction%20to%20to%20Machine%20Learning/make%20a%20dataset/numbers.jpg)
 
 [ML model](https://teachablemachine.withgoogle.com/)
 
