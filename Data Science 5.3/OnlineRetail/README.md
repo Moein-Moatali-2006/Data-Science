@@ -16,9 +16,9 @@ pip install -r requirements.txt
 ```
 You can see the output of the tables from **plt** below :
 
-![Chart 1](images/chart1.png) \
-![Chart 2](images/chart2.png) \
-![Chart 3](images/chart1.png) \
-![Chart 4](images/chart2.png) \
-![Chart 5](images/chart1.png) \
-![Chart 6](images/chart2.png) 
+![Chart 1](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Data%20Science%205.3/OnlineRetail/outputs/output_1.png) \
+![Chart 2](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Data%20Science%205.3/OnlineRetail/outputs/output_2.png) \
+![Chart 3](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Data%20Science%205.3/OnlineRetail/outputs/output_3.png) \
+![Chart 4](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Data%20Science%205.3/OnlineRetail/outputs/output_4.png) \
+![Chart 5](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Data%20Science%205.3/OnlineRetail/outputs/output_5.png) \
+![Chart 6](https://github.com/Moein-Moatali-2006/Data-Science/blob/main/Data%20Science%205.3/OnlineRetail/outputs/output_6.png) 
